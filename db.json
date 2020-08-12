@@ -1,0 +1,76 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "name": "Ahmad",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 2,
+          "name": "Tahir",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 3,
+          "name": "Candra",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 4,
+          "name": "Viki",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 5,
+          "name": "Viki Candra",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 6,
+          "name": "Viki Candra",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 7,
+          "name": "Ekky",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 8,
+          "name": "Hegi",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 9,
+          "name": "Baban",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 10,
+          "name": "Viki Candra",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 11,
+          "name": "Haha",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        },
+        {
+          "id": 12,
+          "name": "Zilong",
+          "tanzeem": "K",
+          "cabang": "Tugu Selatan"
+        }
+      ]
+}
